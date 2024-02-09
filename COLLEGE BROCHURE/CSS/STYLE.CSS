@@ -1,0 +1,144 @@
+*{
+MARGIN:0PX;
+PADDING:0PX;
+BOX-SIZING:BORDER-BOX;
+}
+ HTML, BODY{
+FONT-FAMILY: ROBOTO, SANS-SERIF, ARIAL;
+FONT-SIZE:16PX;
+COLOR: #242424;
+}
+.CONTAINER{
+WIDTH:1300PX;
+MARGIN:10PX AUTO;
+}
+.HEADER{
+BACKGROUND:#46b7c1;
+PADDING:6PX;
+}
+.HEADER B{
+BACKGROUND:#FFF;
+COLOR:red;  
+PADDING:10PX;
+FONT-SIZE:20PX;
+}
+.HEADER MARQUEE{
+FONT-SIZE:20PX;
+COLOR:#fff;
+WIDTH:80%;
+}
+.LOGO5 {
+WIDTH='200PX';
+HEIGHT:200PX;
+MARGIN-TOP:0PX;
+}
+NAV{
+FLOAT:RIGHT;
+PADDING:15PX 0PX;
+MARGIN-TOP:20;
+}
+NAV A{
+COLOR:BLACK;
+TEXT-DECORATION:NONE;
+FONT-SIZE:25PX;
+PADDING:2PX 10PX;
+FONT-WEIGHT:500;
+}
+.SLIDER2 IMG{
+WIDTH:100%;
+}
+.HEADING{
+FONT-SIZE:28PX;
+FONT-WEIGHT:500;
+MARGIN-BOTTOM:70PX;
+COLOR:#0055a4;
+
+}
+.SUBHEAD{
+FONT-SIZE:18PX;
+COLOR:BLUE;
+FONT-WEIGHT:500;
+}
+.ABOUT-US DIV{
+WIDTH:45%;
+FLOAT:LEFT;
+LINE-HEIGHT:30PX;
+FONT-SIZE:18;
+MARGIN-TOP:20PX;
+}
+.ABOUT-US H4{
+FONT-SIZE:25PX;
+COLOR:RED;
+FONT-WEIGHT:500;
+MARGIN-TOP:30PX;
+}
+.ABOUT-US P{
+FONT-SIZE:16PX;
+PADDING-RIGHT:30PX;
+LINE-HEIGHT:23PX;
+MARGIN-TOP:10PX;
+}
+.ABOUT-US IMG{
+WIDTH:50%;
+FLOAT:LEFT;
+MARGIN-TOP:70PX;
+}
+
+.BG-COLOR{
+BACKGROUND:#fOf3fa;
+}
+.main-section{
+width:100%;
+float:left;
+padding:100px 0px 100px 0px;
+}
+.event{
+width:32%;
+margin-right:1%;
+float:left;
+background:white;
+}
+.event i{
+ color:red;
+font-size:14px;
+}
+.event div{
+padding:10px;
+}
+.event.handling{
+padding:10px;
+color:white;
+background:#0055a4;
+text-allign:center;
+font-size:22px;
+font-weight:400;
+margin-bottom:10px;
+}
+.event ul li{
+margin-bottom:20px;
+width:100%;
+float:left;
+list-style:none;
+}
+.campus-news span{
+width:80px;
+float:left;
+}
+.campus-news h2{
+font-weight:600;
+font-size:16px;
+}
+.campus-news h6{
+font-weight:500;
+font-size:13px;
+color:red;
+}
+.campus-news p{
+font-size:14px;
+}
+.ABOUT-US1 IMG{
+WIDTH:50%;
+FLOAT:LEFT;
+MARGIN-TOP:70PX;
+}
+
